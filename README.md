@@ -5,7 +5,7 @@ This is a small application to paste/type a c/c++ snippet and execute it.
 Useful for ad-hoc testing of smaller code fragments without much setup. Just
 paste and run.
 
-![alt tag](https://raw.github.com/skriticos/cppexec/master/cppexec.png)
+![alt tag](https://raw.github.com/skriticos/cppexec/master/_cppexec.png)
 
 ### Usage
 
