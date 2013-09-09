@@ -1,5 +1,5 @@
-pyexec README
-=============
+cppexec README
+==============
 
 This is a small application to paste/type a c/c++ snippet and execute it.
 Useful for ad-hoc testing of smaller code fragments without much setup. Just
@@ -25,6 +25,7 @@ paste and run.
 *   Python 3    -- it's a python 3 script
 *   PySide      -- tested with 1.1.0, package python3-pyside in Ubuntu
 *   xsel        -- for using X11 clipboard functionality
+*   gcc         -- for source code compilation
 
 ### Features
 
